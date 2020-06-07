@@ -1,7 +1,3 @@
-echo "my-first-repo" >> README.md
-init
-add README.md
-commit -m "first commit"
-git remote add origin https://github.com/Marija999/my-first-repo.git
-git push -u origin master
-
+Hello world,
+learning git is going well so far.
+It's cloudy outside today.
